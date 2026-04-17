@@ -1,4 +1,4 @@
-const API_URL = 'http://localhost:3000';
+const API_URL = 'https://sia-lab2-junaid.onrender.com';
 
 // Fetch stats and characters when the page loads
 async function loadData() {
