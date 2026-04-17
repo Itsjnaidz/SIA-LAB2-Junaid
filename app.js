@@ -1,5 +1,5 @@
 // Note: When you deploy to Render, change this to your Render URL!
-const API_URL = "https://junaid-pubg-armory.onrender.com"; 
+const API_URL = "https://sia-lab2-junaid-pubgarmory.onrender.com"; 
 
 async function fetchWeapons() {
     const response = await fetch(`${API_URL}/weapons`);

@@ -1,5 +1,5 @@
 // Change this back to your live Render link!
-const API_URL = 'https://system-integration-api.onrender.com'; 
+const API_URL = 'https://sia-lab2-junaid-pubgarmory.onrender.com'; 
 
 // 1. Fetch and display data ONLY when the button is clicked
 document.getElementById('displayBtn').addEventListener('click', async () => {

@@ -1,4 +1,4 @@
-const API_URL = 'https://sia-lab2-junaid.onrender.com';
+const API_URL = 'https://sia-lab2-junaid-pubgarmory.onrender.com';
 
 // Fetch stats and characters when the page loads
 async function loadData() {
